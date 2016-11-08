@@ -1,0 +1,31 @@
+body {
+	background-image: url("http://i.huffpost.com/gen/4067134/images/o-TRUMP-HANDS-facebook.jpg");
+	}
+#headertext {
+	font-size: 40px;
+	font-weight: bold;
+	color: white;
+	font-family: Oldtown, fantasy;
+}
+#headline {
+	font-size: 25px;
+	font-weight: italic;
+	color: white;
+	font-family: Oldtown, fantasy;
+	
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 100px;
+  background-color: #f5f5f5;
+  
+}
+#footertext {
+	text-align: center;
+	font-size: 20px;
+	color: black;
+	
+}
