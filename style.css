@@ -1,5 +1,6 @@
 body {
 	background-image: url("http://i.huffpost.com/gen/4067134/images/o-TRUMP-HANDS-facebook.jpg");
+	background-repeat: no-repeat;
 	}
 #headertext {
 	font-size: 40px;
